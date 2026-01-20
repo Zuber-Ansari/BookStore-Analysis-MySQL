@@ -1,1 +1,1 @@
-# Zuber-Ansari-Sales-Customer-Behavior-Analysis-MySQL
+# BookStore-Analysis-MySQL
